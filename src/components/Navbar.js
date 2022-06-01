@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
-import resume from "../assets/ResumeLeonelMorales.pdf";
 import { Link } from "react-scroll";
 
 import logo from "../assets/logo.png";
@@ -114,7 +113,6 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-white"
               href={require("../assets/ResumeLeonelMorales.pdf")}
-              target="_blank"
             >
               Resume <BsFillPersonLinesFill size={45} />
             </a>

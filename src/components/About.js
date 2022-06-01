@@ -20,7 +20,7 @@ const About = () => {
               life's simple treasures)
             </p>
           </div>
-          <div className="sm:text-right text-xl font-bold">
+          <div>
             <img className="intro-img" src={myPic} alt="Leo developer pic" />
           </div>
           <div className="sm:text-right text-xl font-bold">
