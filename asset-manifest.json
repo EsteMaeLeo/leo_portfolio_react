@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/EsteMaeLeo/leo_portfolio_react/static/css/main.0d049cae.css",
+    "main.js": "/EsteMaeLeo/leo_portfolio_react/static/js/main.8ea6718d.js",
+    "static/media/css.png": "/EsteMaeLeo/leo_portfolio_react/static/media/css.86bbdf0236e53de19b0c.png",
+    "static/media/project1.png": "/EsteMaeLeo/leo_portfolio_react/static/media/project1.603cac6f55908a00ea1b.png",
+    "static/media/dash-weather.png": "/EsteMaeLeo/leo_portfolio_react/static/media/dash-weather.b9b66d8d54877f1dcb11.png",
+    "static/media/ResumeLeonelMorales.pdf": "/EsteMaeLeo/leo_portfolio_react/static/media/ResumeLeonelMorales.770e265213439109368f.pdf",
+    "static/media/videodevs.png": "/EsteMaeLeo/leo_portfolio_react/static/media/videodevs.d70a239ed98a45f6edae.png",
+    "static/media/scheduler.png": "/EsteMaeLeo/leo_portfolio_react/static/media/scheduler.e5788f170282461057ad.png",
+    "static/media/unted-tech.png": "/EsteMaeLeo/leo_portfolio_react/static/media/unted-tech.307944ed523984473c50.png",
+    "static/media/leo.png": "/EsteMaeLeo/leo_portfolio_react/static/media/leo.765adeafdb829733b582.png",
+    "static/media/logo.png": "/EsteMaeLeo/leo_portfolio_react/static/media/logo.6cd56357b5c2624d62d2.png",
+    "static/media/react.png": "/EsteMaeLeo/leo_portfolio_react/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/EsteMaeLeo/leo_portfolio_react/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/EsteMaeLeo/leo_portfolio_react/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/notetaker.png": "/EsteMaeLeo/leo_portfolio_react/static/media/notetaker.2ce80c2664d4a00055f6.png",
+    "static/media/github.png": "/EsteMaeLeo/leo_portfolio_react/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/EsteMaeLeo/leo_portfolio_react/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/136530.png": "/EsteMaeLeo/leo_portfolio_react/static/media/136530.4b0c58056d3b2c2196bf.png",
+    "index.html": "/EsteMaeLeo/leo_portfolio_react/index.html",
+    "main.0d049cae.css.map": "/EsteMaeLeo/leo_portfolio_react/static/css/main.0d049cae.css.map",
+    "main.8ea6718d.js.map": "/EsteMaeLeo/leo_portfolio_react/static/js/main.8ea6718d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d049cae.css",
+    "static/js/main.8ea6718d.js"
+  ]
+}
