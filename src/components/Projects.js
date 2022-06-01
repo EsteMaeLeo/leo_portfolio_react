@@ -32,7 +32,6 @@ function Projects() {
               <span className="text-2xl font-bold text-blue-800 tracking-wider">
                 Unite Tech Blog!!! Social Positive to share IT
               </span>
-              grid-cols-3 gap-5">
               <div className="pt-8 text-center">
                 <a href="https://cryptic-meadow-78620.herokuapp.com">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-blue-800 font-bold text-lg">
