@@ -12,7 +12,13 @@
     @apply cursor-pointer
   }
 }
-
+.intro-img{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 450px;
+  width: 500px;
+}
 .content-div {
   background-repeat: no-repeat;
   background-size: cover;

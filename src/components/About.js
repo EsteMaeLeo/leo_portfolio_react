@@ -1,5 +1,5 @@
 import React from "react";
-
+import myPic from "../assets/leo.png";
 const About = () => {
   return (
     <div name="about" className="w-full h-screen bg-[#bde6fd] text-blue-800">
@@ -15,11 +15,13 @@ const About = () => {
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-3xl font-bold">
             <p>
-              {" "}
               Hi and Pura Vida!!! (I am from Costa Rica. Pure Life or Pura Vida
               is Costa Rican philosophy that encourages the appreciation of
               life's simple treasures)
             </p>
+          </div>
+          <div className="sm:text-right text-xl font-bold">
+            <img className="intro-img" src={myPic} alt="Leo developer pic" />
           </div>
           <div className="sm:text-right text-xl font-bold">
             <p>

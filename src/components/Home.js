@@ -1,5 +1,6 @@
 import React from "react";
 import { HiOutlineChevronDoubleRight } from "react-icons/hi";
+import myPic from "../assets/leo.png";
 
 function home() {
   return (
