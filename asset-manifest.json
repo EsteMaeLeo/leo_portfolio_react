@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/EsteMaeLeo/leo_portfolio_react/static/css/main.0d049cae.css",
-    "main.js": "/EsteMaeLeo/leo_portfolio_react/static/js/main.8ea6718d.js",
+    "main.css": "/EsteMaeLeo/leo_portfolio_react/static/css/main.73199d35.css",
+    "main.js": "/EsteMaeLeo/leo_portfolio_react/static/js/main.e3d69dd3.js",
     "static/media/css.png": "/EsteMaeLeo/leo_portfolio_react/static/media/css.86bbdf0236e53de19b0c.png",
     "static/media/project1.png": "/EsteMaeLeo/leo_portfolio_react/static/media/project1.603cac6f55908a00ea1b.png",
     "static/media/dash-weather.png": "/EsteMaeLeo/leo_portfolio_react/static/media/dash-weather.b9b66d8d54877f1dcb11.png",
@@ -19,11 +19,11 @@
     "static/media/html.png": "/EsteMaeLeo/leo_portfolio_react/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/136530.png": "/EsteMaeLeo/leo_portfolio_react/static/media/136530.4b0c58056d3b2c2196bf.png",
     "index.html": "/EsteMaeLeo/leo_portfolio_react/index.html",
-    "main.0d049cae.css.map": "/EsteMaeLeo/leo_portfolio_react/static/css/main.0d049cae.css.map",
-    "main.8ea6718d.js.map": "/EsteMaeLeo/leo_portfolio_react/static/js/main.8ea6718d.js.map"
+    "main.73199d35.css.map": "/EsteMaeLeo/leo_portfolio_react/static/css/main.73199d35.css.map",
+    "main.e3d69dd3.js.map": "/EsteMaeLeo/leo_portfolio_react/static/js/main.e3d69dd3.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d049cae.css",
-    "static/js/main.8ea6718d.js"
+    "static/css/main.73199d35.css",
+    "static/js/main.e3d69dd3.js"
   ]
 }
