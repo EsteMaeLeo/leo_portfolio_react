@@ -1,10 +1,10 @@
 import React from "react";
-import { HiArrowNarrowRight } from "react-icons/hi";
+import { HiOutlineChevronDoubleRight } from "react-icons/hi";
 
 function home() {
   return (
     <div name="home" className="w-full h-screen bg-[#bde6fd]">
-      <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
+      <div className="max-w-[1000px] mx-auto px-4 flex flex-col justify-center h-full">
         <p className="text-blue-800 text-xl">
           Hi, There!!! Thanks for visiting my portfolio
         </p>
@@ -24,10 +24,10 @@ function home() {
           jQuery, Bootstrap, Express.js, React.js, Node.js, MongoDB, MySQL
         </p>
         <div>
-          <button className="text-[#03afff] group  border-rose-500 border-double border-8 px-7 py-4 my-2 flex items-center hover:bg-blue-800 hover:border-yellow-600">
+          <button className="text-[#03afff] group  border-red-500 border-double border-8 px-7 py-5 my-3 flex items-center hover:bg-blue-800 hover:border-yellow-600 hover:text-white">
             Projects{" "}
             <span className="group-hover:rotate-90 duration-300">
-              <HiArrowNarrowRight className="ml-3" />
+              <HiOutlineChevronDoubleRight className="ml-3" />
             </span>
           </button>
         </div>
