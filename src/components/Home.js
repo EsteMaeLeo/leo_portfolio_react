@@ -26,7 +26,7 @@ function home() {
         <div>
           <button className="text-[#03afff] group  border-red-500 border-double border-8 px-7 py-5 my-3 flex items-center hover:bg-blue-800 hover:border-yellow-600 hover:text-white">
             Projects{" "}
-            <span className="group-hover:rotate-90 duration-300">
+            <span className="group-hover:rotate-90 duration-600">
               <HiOutlineChevronDoubleRight className="ml-3" />
             </span>
           </button>
