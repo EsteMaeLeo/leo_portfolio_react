@@ -1,6 +1,6 @@
 import React from "react";
 import { HiOutlineChevronDoubleRight } from "react-icons/hi";
-import myPic from "../assets/leo.png";
+import { Link } from "react-scroll";
 
 function home() {
   return (
@@ -25,12 +25,14 @@ function home() {
           jQuery, Bootstrap, Express.js, React.js, Node.js, MongoDB, MySQL
         </p>
         <div>
-          <button className="text-[#03afff] group  border-red-500 border-double border-8 px-7 py-5 my-3 flex items-center hover:bg-blue-800 hover:border-yellow-600 hover:text-white">
-            Projects{" "}
-            <span className="group-hover:rotate-90 duration-600">
-              <HiOutlineChevronDoubleRight className="ml-3" />
-            </span>
-          </button>
+          <Link to="projects" smooth={true} duration={500}>
+            <button className="text-[#03afff] group  border-red-500 border-double border-8 px-7 py-5 my-3 flex items-center hover:bg-blue-800 hover:border-yellow-600 hover:text-white">
+              Projects{" "}
+              <span className="group-hover:rotate-90 duration-300">
+                <HiOutlineChevronDoubleRight className="ml-3" />
+              </span>
+            </button>
+          </Link>
         </div>
       </div>
     </div>
