@@ -1,5 +1,7 @@
 import React, { useState } from "react";
-import { FaBars, FaTimes } from "react-icons/fa";
+import { FaBars, FaTimes, FaGithub, FaLinkedin } from "react-icons/fa";
+import { HiOutlineMail } from "react-icons/hi";
+import { BsFillPersonLinesFill } from "react-icons/bs";
 import logo from "../assets/logo.png";
 
 const Navbar = () => {
@@ -41,7 +43,42 @@ const Navbar = () => {
         <li className="py-6 text-3xl">Contact</li>
       </ul>
 
-      <div></div>
+      <div className="hidden lg:flex fixed flex-col top-[40%] left-0 text-black">
+        <ul>
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0f99e9]">
+            <a
+              className="flex justify-between items-center w-full text-white"
+              href="/"
+            >
+              Github <FaGithub size={45} />
+            </a>
+          </li>
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0f99e9]">
+            <a
+              className="flex justify-between items-center w-full text-white"
+              href="/"
+            >
+              Linkedin <FaLinkedin size={45} />
+            </a>
+          </li>
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0f99e9]">
+            <a
+              className="flex justify-between items-center w-full text-white"
+              href="/"
+            >
+              Resume <BsFillPersonLinesFill size={45} />
+            </a>
+          </li>
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0f99e9]">
+            <a
+              className="flex justify-between items-center w-full text-white"
+              href="/"
+            >
+              Email <HiOutlineMail size={45} />
+            </a>
+          </li>
+        </ul>
+      </div>
     </div>
   );
 };
