@@ -5,10 +5,10 @@ function home() {
   return (
     <div name="home" className="w-full h-screen bg-[#bde6fd]">
       <div className="max-w-[1000px] mx-auto px-4 flex flex-col justify-center h-full">
-        <p className="text-blue-800 text-xl">
+        <p className="text-[#888748]  text-4xl">
           Hi, There!!! Thanks for visiting my portfolio
         </p>
-        <h1 className="text-3xl sm:text-7xl font-bold text-[#fffb03]">
+        <h1 className="text-3xl sm:text-7xl font-bold text-blue-800">
           I'm Leonel Morales
         </h1>
         <h2 className="text-2xl  sm:text-6xl font-bold text-[#03afff]">
